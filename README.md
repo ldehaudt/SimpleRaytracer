@@ -22,6 +22,8 @@ This project was made with Conan Wu, check out her github (conanwu777) if you ha
  
 ![alt text](screenshots/3.png)
 
+![alt text](4.png)
+
 ![alt text](screenshots/1.png)
 
 ![alt text](screenshots/2.png)
