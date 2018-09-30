@@ -2,7 +2,9 @@
 A raytracing engine that loads customizable maps.
 Includes squares, planes, spheres, cones, cylinders, lights, colored lighs.
 
-This project was made with Conan Wu, check out her github (conanwu777) if you haven't already. 
+This project was made with Conan Wu, check out her github (conanwu777) if you haven't already.
+
+Conan is the mastermind behind this one. enjoy ^-^
  
  ## starting the program
  
